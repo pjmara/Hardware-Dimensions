@@ -31,6 +31,10 @@
     "x": 5.0,
     "y": 20.0
   },
+  "5x40": {
+    "x": 5.0,
+    "y": 40.0
+  },
   
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
